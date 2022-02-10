@@ -5,5 +5,4 @@ const setDegree = (x,n) => {
     }
     console.log(x);
 }
-
-setDegree(2,10)
+setDegree(2,10);
