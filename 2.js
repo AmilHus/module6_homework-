@@ -1,5 +1,4 @@
-let flag = true;
-function CheckNumbers(num) {
+function CheckNumbers(num,flag = true){
     if (num > 1000){
         console.log("Данные неверны");
     }
